@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  alfresco-helm:
+  - apiVersion: v1
+    created: 2018-07-04T04:47:55.692857308-04:00
+    description: A Helm chart for Kubernetes
+    digest: facc2d9ed80b48413d671a62735397ce03afbff71ac2a462fbbc8df756620f6f
+    name: alfresco-helm
+    urls:
+    - https://psl-nutanix.github.io/alfresco-helm/alfresco-helm-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-04T04:47:55.692053902-04:00
